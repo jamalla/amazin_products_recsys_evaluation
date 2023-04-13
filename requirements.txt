@@ -1,0 +1,6 @@
+pip-chill==1.0.1
+plotly==4.14.3
+rise==5.7.1
+selenium==4.5.0
+wincertstore==0.2
+wordcloud==1.8.2.2

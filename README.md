@@ -6,7 +6,7 @@
 
 **Information Used:** The AI system will analyze customer data, including browsing history, purchase history, search queries, and product category preferences. The system will also use machine learning algorithms to identify patterns in customer behavior and recommend products that are likely to be of interest.
 
-**Methodology: ** The AI system will be evaluated using a combination of quantitative and qualitative methods to ensure that it can provide accurate and relevant product recommendations to customers.
+**Methodology:** The AI system will be evaluated using a combination of quantitative and qualitative methods to ensure that it can provide accurate and relevant product recommendations to customers.
 
 1.	Data Collection and Preparation: The first step in evaluating the AI system will be to collect a large sample of customer data, including browsing history, purchase history, and demographic information. The data will be preprocessed and cleaned to remove any irrelevant or duplicate information.
 
