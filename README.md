@@ -1,6 +1,6 @@
 # Products Recommendations Evaluation 
 
-## DEMO Case: Evaluating an AI System for an E-commerce Product Recommendation System
+## DEMO CASE: Evaluating an AI System for an E-commerce Product Recommendation System
 
 **Issue:** An e-commerce platform wants to deploy an AI system to provide personalized product recommendations to its customers. The platform has noticed that customers often have difficulty finding products they are interested in, which can lead to decreased sales and customer satisfaction. The company wants to implement an AI system that can recommend products that are likely to be of interest to individual customers, based on their browsing history, purchase history, and other relevant information.
 
