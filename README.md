@@ -1,4 +1,4 @@
-# Products Recommendations Evaluation 
+# Amazon Products Recommendations Evaluation 
 
 ## DEMO CASE: Evaluating an AI System for an E-commerce Product Recommendation System
 
